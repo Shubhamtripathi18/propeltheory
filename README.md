@@ -1,5 +1,26 @@
-# propellerheory
+VIRTUAL BUSINESS CARD
 
+# propelTheoryAssignment
+
+first i have created my user schema and card schema
+then i've refer the user in the the card schema as objectId
+i've created post and get APIs 
+i have also made a seperate validation files where i have written all the 
+required validations
+used multer to upload multiple files
+AWS to create public link
+
+the dependecies i needed were:-{
+    "aws-sdk",
+    "express",
+    "jsonwebtoken",
+    "mongoose",
+    "multer",
+    "nodemon"
+  }
+
+
+this is my output -------------------
 
 {
     "status": true,
